@@ -11,4 +11,4 @@ Repostorio para armazenar resumos sobre Git e Github do curso versionamento de C
 |Aulas | Resumos |
 |-------|--------|
 | Gravando Alterações no Repositorio Local | [Resumo]
-() |
+() |Alterei 
